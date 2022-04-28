@@ -1,0 +1,38 @@
+0 verbose cli [
+0 verbose cli   '/data/data/com.termux/files/usr/bin/node',
+0 verbose cli   '/data/data/com.termux/files/usr/bin/npm',
+0 verbose cli   'run',
+0 verbose cli   'deploy'
+0 verbose cli ]
+1 info using npm@8.5.0
+2 info using node@v16.14.2
+3 timing npm:load:whichnode Completed in 1ms
+4 timing config:load:defaults Completed in 10ms
+5 timing config:load:file:/data/data/com.termux/files/usr/lib/node_modules/npm/npmrc Completed in 8ms
+6 timing config:load:builtin Completed in 8ms
+7 timing config:load:cli Completed in 9ms
+8 timing config:load:env Completed in 2ms
+9 timing config:load:file:/data/data/com.termux/files/home/cv/.npmrc Completed in 2ms
+10 timing config:load:project Completed in 86ms
+11 timing config:load:file:/data/data/com.termux/files/home/.npmrc Completed in 5ms
+12 timing config:load:user Completed in 8ms
+13 timing config:load:file:/data/data/com.termux/files/usr/etc/npmrc Completed in 1ms
+14 timing config:load:global Completed in 3ms
+15 timing config:load:validate Completed in 4ms
+16 timing config:load:credentials Completed in 7ms
+17 timing config:load:setEnvs Completed in 6ms
+18 timing config:load Completed in 151ms
+19 timing npm:load:configload Completed in 152ms
+20 timing npm:load:setTitle Completed in 3ms
+21 timing config:load:flatten Completed in 18ms
+22 timing npm:load:display Completed in 29ms
+23 verbose logfile /data/data/com.termux/files/home/.npm/_logs/2022-04-28T11_45_12_607Z-debug-0.log
+24 timing npm:load:logFile Completed in 34ms
+25 timing npm:load:timers Completed in 0ms
+26 timing npm:load:configScope Completed in 0ms
+27 timing npm:load Completed in 225ms
+28 silly logfile start cleaning logs, removing 1 files
+29 timing command:run Completed in 92830ms
+30 verbose exit 1
+31 timing npm Completed in 94008ms
+32 verbose code 1
